@@ -1,6 +1,6 @@
-def my_hash
+def my_hash(baked_goods) 
+ baked_goods = {"babka" => "caramel", "cookie" => "gingerbread"}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
   
 end
 
